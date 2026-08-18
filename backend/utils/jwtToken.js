@@ -13,4 +13,5 @@ export const sendToken=(user,statusCode,res)=>{
         user,
         token
     })
+    //this one got worked
 }
